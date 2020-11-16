@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://b.kuonang.com/precache-manifest.c813fedde730d2fbcf1cf9e431cfb222.js"
+  "https://b.kuonang.com/precache-manifest.c9eff4279b415b975d867e5502256a6c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "kuonang"});
